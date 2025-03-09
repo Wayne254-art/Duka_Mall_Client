@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a8b0be4.css",
+    "main.js": "/static/js/main.9097f0de.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/shop.gif": "/static/media/shop.f426093801bc384cee72.gif",
+    "static/media/cart.jpg": "/static/media/cart.1fde45a754e98b8e9923.jpg",
+    "static/media/order.jpg": "/static/media/order.c69a40d8732a9b5be2dd.jpg",
+    "static/media/success.png": "/static/media/success.62f3914054e7ecfc1229.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/error.png": "/static/media/error.cbaa5a4233cfda33584d.png",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.9a8b0be4.css.map": "/static/css/main.9a8b0be4.css.map",
+    "main.9097f0de.js.map": "/static/js/main.9097f0de.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a8b0be4.css",
+    "static/js/main.9097f0de.js"
+  ]
+}

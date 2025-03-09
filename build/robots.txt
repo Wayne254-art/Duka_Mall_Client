@@ -1,0 +1,13 @@
+
+# Robots.txt for Duka Mall
+# Learn more at https://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /settings/
+Allow: /
+
+# Sitemaps help search engines understand your website structure
+Sitemap: https://www.dukamall.co.ke/sitemap.xml
+
